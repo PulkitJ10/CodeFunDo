@@ -24,6 +24,6 @@ Development tools to be used: React for Frontend and Django for Backend developm
 Future Development prospects: Usage of self-developed APIs instead of 3rd party APIs and development of an Android app to
                               increase coverage and ease of use.
 
-3rd party APIs to be used: https://www.programmableweb.com/api/resgrid
-                           https://www.programmableweb.com/api/vs30-map-server
-                           https://developers.google.com/maps
+3rd party APIs to be used(subject to change): https://www.programmableweb.com/api/resgrid
+                                              https://www.programmableweb.com/api/vs30-map-server
+                                              https://developers.google.com/maps
